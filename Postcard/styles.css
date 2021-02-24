@@ -1,0 +1,19 @@
+body{background: rgb(19, 18, 18);font-family: 'Handlee', cursive;
+    
+}
+.Postcard{
+    background: white; width: 400px; height: 300px; margin:auto; margin-top: 50px; margin-bottom: 50px;
+    padding: 15px;
+}
+.Grupo-1{overflow: hidden;}
+.Grupo-1 img{float: right;}
+.Grupo-2{overflow: hidden; font-size: 18px;}
+.Grupo-3{ padding: 10px; text-align: center;}
+.Postcard h1{margin: 0; font-size:35px ;}
+.left-part{
+    float: left; width: 50%;
+}
+.Rigth-part{float: right; width: 50%; }
+.Grupo-3 input[type=submit]{border:none; border-bottom: 1px solid grey}
+.Grupo-2 input[type=text]{border:none; border-bottom: 1px solid grey; width: 200px;margin-bottom: 10px; padding: 3px;}
+input{font-family: 'Handlee', cursive;}
